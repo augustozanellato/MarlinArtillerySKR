@@ -2,7 +2,7 @@
 
 My take on setting up Marlin on an Artillery Genius with a ton of mods including
  - BTT SKR 2 motherboard & TFT35
- - TMC2208 (will be upgraded to TMC2209 shortly)
+ - TMC2209
  - BLTouch
  - Octoprint w/ Meatpack and a Sonoff DualR3 to control printer power
  - Filament runout sensor directly connected to the motherboard
